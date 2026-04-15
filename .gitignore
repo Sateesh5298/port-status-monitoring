@@ -1,0 +1,3 @@
+port_status.log
+*.pyc
+__pycache__/
